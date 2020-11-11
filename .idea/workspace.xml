@@ -55,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_2/task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_3/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_2/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_3/task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_2/task_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_3/task_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_2/task_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_3/task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_2/task_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lesson_3/task_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,8 +157,8 @@
         <item itemvalue="Python.task_6" />
         <item itemvalue="Python.task_5" />
         <item itemvalue="Python.task_4" />
-        <item itemvalue="Python.task_3" />
         <item itemvalue="Python.task_2" />
+        <item itemvalue="Python.task_3" />
       </list>
     </recent_temporary>
   </component>
@@ -174,38 +174,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1604671553824">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605079181478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604671553824" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1604671553824">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605079181478" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1605079181478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604671553824" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1604671553824">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605079181478" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1605079181478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604671553824" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1604671553824">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605079181478" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1605079181478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604671553824" />
-    <state width="1345" height="203" key="GridCell.Tab.1.bottom" timestamp="1604657381283">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605079181478" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1605079181475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604657381283" />
-    <state width="1345" height="203" key="GridCell.Tab.1.center" timestamp="1604657381283">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605079181475" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1605079181475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604657381283" />
-    <state width="1345" height="203" key="GridCell.Tab.1.left" timestamp="1604657381283">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605079181475" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1605079181475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604657381283" />
-    <state width="1345" height="203" key="GridCell.Tab.1.right" timestamp="1604657381283">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605079181475" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1605079181475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604657381283" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605079181475" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604638061839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
